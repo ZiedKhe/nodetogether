@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ZiedKhe/nodetogether/issues"
   },
-  "homepage": "https://github.com/ZiedKhe/nodetogether#readme"
+  "homepage": "https://github.com/ZiedKhe/nodetogether#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
 }
