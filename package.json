@@ -1,0 +1,20 @@
+{
+  "name": "nodetogether",
+  "version": "1.0.0",
+  "description": "NodeTogether day README",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZiedKhe/nodetogether.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZiedKhe/nodetogether/issues"
+  },
+  "homepage": "https://github.com/ZiedKhe/nodetogether#readme"
+}
