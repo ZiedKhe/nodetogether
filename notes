@@ -1,4 +1,8 @@
-Dans la console Node :
+npm puts the packages where node knows where they are
+
+package.json : contient entre autres les metadatas et les dependencies
+
+## Javascript
 
 Definir une variable
 var my_name = "zied"
@@ -9,3 +13,14 @@ Definir une constante
 const PHONE = 0672072251
 
 
+## Express
+
+expressjs.com
+
+
+pseudocode 
+app.action(route, f(r,r) { r.send("stuff of the callback function")})
+
+
+
+Handlebars is a framework on 
